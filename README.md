@@ -62,7 +62,3 @@ pnpm start
 ## Local Development
 
 Anda bisa melakukan perubahan secara local dan mengubah tampilan atau apapun sesuka hati. Cara tersebut sudah dijelaskan pada poin [`pemaikaian`](#pemakian).
-
-## Lisensi
-
-Project ini bernaung di bawah lisensi [GPL-3.0 License](LICENSE).
